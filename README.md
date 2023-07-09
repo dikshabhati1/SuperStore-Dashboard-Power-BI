@@ -1,5 +1,10 @@
 # SuperStore Dashboard
 
+### Overview
+![](https://github.com/dikshabhati1/SuperStore-Dashboard-Power-BI/blob/main/Dashboard%20Images/Overview%20.jpg)
+
+
+
 ## DAX Formulas used in Measures
 
 **1. Total Sales**
