@@ -7,6 +7,9 @@
 ### Product
 ![](https://github.com/dikshabhati1/SuperStore-Dashboard-Power-BI/blob/main/Dashboard%20Images/Product.jpg)
 
+### Segment
+![](https://github.com/dikshabhati1/SuperStore-Dashboard-Power-BI/blob/main/Dashboard%20Images/Segment.jpg)
+
 
 
 ## DAX Formulas used in Measures
