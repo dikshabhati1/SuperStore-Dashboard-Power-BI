@@ -9,7 +9,15 @@
 ### Product
 ![](https://github.com/dikshabhati1/SuperStore-Dashboard-Power-BI/blob/main/Dashboard%20Images/Product3.jpg)
 
+## Dataset
+This dataset is the Superstore dataset. This contains 2 excel files:
 
+**1. SuperStore Orders**
+This excel file contains the data about orders made by customers for any product. This table also contains information about customers like name, address and information about orders like product name, order-id, product category. There are total 19 columns and 5899 rows in this excel file.
+
+**2. SuperStore Returns**
+ This excel file contains information about the returned order id.
+ 
 
 
 
