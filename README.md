@@ -9,6 +9,12 @@
 ### Product
 ![](https://github.com/dikshabhati1/SuperStore-Dashboard-Power-BI/blob/main/Dashboard%20Images/Product3.jpg)
 
+
+# About the Project
+The project aims to empower SuperStore by providing valuable sales performance insights and actionable improvements. Through Power BI's visually appealing reports and interactive dashboards, decision-makers can effortlessly explore data, gaining valuable insights to drive informed actions. <br>
+
+It will enhance decision-making and optimize business operations with an interactive dashboard that visualizes sales, profit, top customers and states by sales, subcategory analysis, returned orders, and offers slicer-based filtering for improved insights and performance optimization
+
 ## Dataset
 This dataset is the Superstore dataset. This contains 2 excel files:
 
