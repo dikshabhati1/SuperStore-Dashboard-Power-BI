@@ -44,7 +44,7 @@ This excel file contains the data about orders made by customers for any product
 
 **5. Year to Year Growth%**
 
-* `YoY Sales Growth% = \n
+* `YoY Sales Growth% = 
 VAR PYSales = 
     CALCULATE([Total Sales], DATEADD(Orders[Order Date], -1, YEAR)) 
 RETURN 
