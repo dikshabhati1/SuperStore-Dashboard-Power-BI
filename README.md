@@ -5,7 +5,7 @@
 ![](https://github.com/dikshabhati1/SuperStore-Dashboard-Power-BI/blob/main/Dashboard%20Images/Overview1.jpg)
 
 ### Segment
-![](https://github.com/dikshabhati1/SuperStore-Dashboard-Power-BI/blob/main/Dashboard%20Images/Segment%20img2.jpg)
+![](https://github.com/dikshabhati1/SuperStore-Dashboard-Power-BI/blob/main/Dashboard%20Images/Segment2.jpg)
 
 ### Product
 ![](https://github.com/dikshabhati1/SuperStore-Dashboard-Power-BI/blob/main/Dashboard%20Images/Product3.jpg)
