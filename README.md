@@ -50,5 +50,9 @@ VAR PYSales =
 RETURN 
     DIVIDE(([Total Sales]-PYSales), PYSales)*100`
 
+**5. Gross Margin%**
+
+* `Gross Margin% = DIVIDE([Total Profit], [Total Sales])*100`
+
 
 
