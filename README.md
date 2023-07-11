@@ -42,7 +42,7 @@ This excel file contains the data about orders made by customers for any product
 **4. Extract Month from Date**
 * `MonthNo = Month(Orders[Order Date])`
 
-**5. Year to Year Growth%**
+**5. Year over Year Growth%**
 
 * `YoY Sales Growth% = 
 VAR PYSales = 
